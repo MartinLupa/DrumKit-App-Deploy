@@ -3,6 +3,7 @@
 Javascript project done as part of "The Complete 2021 Web Development Bootcamp" by Dr. Angela Yu.
 
 Deploy: https://martinlupa.github.io/DrumKit-App-Deploy/index.html
+
 Sections 13 - 14:
 
 List of topics:
